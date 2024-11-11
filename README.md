@@ -31,17 +31,12 @@ Currently working on:
 - 🤝 Financial chatbot frameworks [GitHub Repo](https://github.com/lucaskemper/llm-finance-analysis-project)
 - 🔬 Research Paper: [Read More](https://www.lucaskemper.com/papers)
 
-## 🌍 Let's Connect
+### 🌍 Let's Connect
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/lucas-kemper)
 [![Website](https://img.shields.io/badge/Portfolio-A177FE?style=for-the-badge&logo=About.me&logoColor=white&style=plastic)](https://www.lucaskemper.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](mailto:contact@lucaskemper.com)
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A177FE&icon_color=A177FE&text_color=ffffff"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FE,100:8E5FFE&height=120&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
-</div>
-
+  
 <div align="center">
   <i>"Bridging the gap between traditional finance and artificial intelligence"</i>
 </div>
