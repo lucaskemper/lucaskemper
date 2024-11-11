@@ -6,7 +6,7 @@
 </div>
 
 ## 👋 About Me
-I'm a Swiss MSc Finance student passionate about bridging the gap between traditional finance and cutting-edge AI technology. With a strong foundation in quantitative methods and machine learning, I focus on developing innovative solutions for complex financial challenges. My work combines rigorous academic research with practical applications in algorithmic trading and AI-driven financial analysis.
+I'm a Swiss MSc Finance student passionate about bridging the gap between traditional finance and cutting-edge AI technology. With a strong foundation in quantitative finance and exceptional analytical capabilities, I excel at breaking down complex challenges into actionable solutions. My methodical approach to problem-solving, combined with my ability to synthesize large amounts of data, allows me to develop innovative strategies at the intersection of finance and technology.
 
 ## 🎯 Current Focus
 
