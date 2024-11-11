@@ -10,7 +10,7 @@
 
 ## 🎯 Current Focus
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/lucaskemper/lucaskemper/main/assets/developer.svg" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/lucaskemper/lucaskemper/developer.svg" />
 
 - 🤖 Building an advanced LLM framework for financial analysis
 - 📊 Exploring AI applications in quantitative finance
