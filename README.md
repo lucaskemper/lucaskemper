@@ -43,7 +43,6 @@ Currently working on:
 [![Website](https://img.shields.io/badge/Portfolio-A177FE?style=for-the-badge&logo=About.me&logoColor=white&style=plastic)](https://www.lucaskemper.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](mailto:contact@lucaskemper.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A177FE&icon_color=A177FE&text_color=ffffff"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FE,100:8E5FFE&height=120&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 
