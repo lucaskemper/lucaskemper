@@ -10,7 +10,7 @@ I'm a Swiss MSc Finance student passionate about bridging the gap between tradit
 
 ## 🎯 Current Focus
 
-<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
+
 
 - 🤖 Building an advanced LLM framework for financial analysis
 - 📊 Exploring AI applications in quantitative finance
