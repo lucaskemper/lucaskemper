@@ -13,14 +13,6 @@
 - 📊 Exploring AI applications in quantitative finance
 - 🔬 Research in AI-assisted development using Claude's Computer Use API
 
-## 🚀 Featured Projects
-
-### 🤖 LLM Finance Analysis Project
-*Revolutionizing financial analysis through AI*
-- 🧠 Custom LLM architecture for financial data processing
-- 📈 Real-time market analysis capabilities
-- 🔄 Integration with leading financial APIs
-
 ### 🌐 Portfolio Website
 *A window into my research and interests*
 - 💡 Showcasing the intersection of finance and AI
