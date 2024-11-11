@@ -19,7 +19,7 @@ I'm a Swiss MSc Finance student passionate about bridging the gap between tradit
 ### 🌐 Portfolio Website
 *A window into my research and interests*
 - 💡 Showcasing the intersection of finance and AI
-- 📝 Technical blog and research findings
+- 📝 Technical blog and research findings (coming soon)
 - 📚 Project documentation and insights
 - 🔒 Cybersecurity focused portfolio website: [View Live](https://www.lucaskemper.com) | [GitHub Repo](https://github.com/lucaskemper/portfolio-website)
 
