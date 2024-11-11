@@ -5,6 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FE,100:8E5FFE&height=120&section=header&text=Finance%20×%20AI%20Innovation&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
+## 👋 About Me
+I'm a Swiss MSc Finance student passionate about bridging the gap between traditional finance and cutting-edge AI technology. With a strong foundation in quantitative methods and machine learning, I focus on developing innovative solutions for complex financial challenges. My work combines rigorous academic research with practical applications in algorithmic trading and AI-driven financial analysis.
+
 ## 🎯 Current Focus
 
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
