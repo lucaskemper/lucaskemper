@@ -5,6 +5,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FE,100:8E5FFE&height=120&section=header&text=Finance%20×%20AI%20Innovation&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/lucaskemper?label=Follow&style=social)](https://github.com/lucaskemper)
+  ![Profile views](https://komarev.com/ghpvc/?username=lucaskemper&color=A177FE)
+  [![Papers](https://img.shields.io/badge/Research-Papers-A177FE)](https://www.lucaskemper.com/papers)
+  
+</div>
+
+## 👨‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
+
+```python
+class FinanceEngineer:
+    def __init__(self):
+        self.name = "Lucas Kemper"
+        self.role = "Finance × AI Researcher"
+        self.education = "MSc Finance @ HEC Lausanne"
+        self.interests = ["Quant Finance", "AI/ML", 
+                         "LLMs", "Algo Trading"]
+        self.skills = {
+            "languages": ["Python", "C++"],
+            "finance": ["Quant Analysis", "Risk Management"],
+            "ai": ["LLMs", "ML Models", "Data Science"]
+        }
+
 ## 🎯 Current Focus
 
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
