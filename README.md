@@ -3,7 +3,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=435&lines=Quantitative+Finance+%2B+AI;MSc+Finance+Student;Building+the+Future+of+FinTech" alt="Typing SVG" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FE,100:8E5FFE&height=120&section=header&text=Finance%20×%20AI%20Innovation&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</div>
+
+
 ## 🎯 Current Focus
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 - 🤖 Building an advanced LLM framework for financial analysis
