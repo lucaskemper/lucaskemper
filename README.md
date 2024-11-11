@@ -6,7 +6,7 @@
 ## 🔭 Current Focus
 - Developing a chatbot framework for financial analysis
 - Exploring the intersection of LLMs and quantitative finance
-- CFA Level 1 Candidate (Nov 2025)
+- Advanced LLM Research
 
 ## 🚀 Featured Projects
 
