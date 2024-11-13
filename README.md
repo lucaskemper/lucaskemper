@@ -38,5 +38,7 @@ Currently working on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/lucas-kemper)
 [![Website](https://img.shields.io/badge/Portfolio-A177FE?style=for-the-badge&logo=About.me&logoColor=white&style=plastic)](https://www.lucaskemper.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](mailto:contact@lucaskemper.com)
+[View my formal resume](https://drive.google.com/file/d/1-LVaXM0THZLzIH57vgyq_GIORNOFywJu/view?usp=drive_link)
+
 
 </div>
