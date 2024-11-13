@@ -23,7 +23,7 @@ I'm a Swiss MSc Finance student passionate about bridging the gap between tradit
 - 📝 Technical blog and research findings (coming soon)
 - 📚 Project documentation and insights
 - 🔒 Cybersecurity focused portfolio website: [View Live Beta Version](https://www.lucaskemper.com) | [GitHub Repo](https://github.com/lucaskemper/portfolio-website)
-- Server is currently down for routine maintenance
+- ⚠️ Server is currently down for routine maintenance
 
 ### 🔬 Research & Development
 Currently working on:
