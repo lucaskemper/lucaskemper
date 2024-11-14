@@ -6,8 +6,6 @@ I'm a Swiss MSc Finance student passionate about bridging the gap between tradit
 
 ## 🎯 Current Focus
 
-
-
 - 🤖 Building an advanced LLM framework for financial analysis
 - 📊 Exploring AI applications in quantitative finance
 - 🔬 Research in AI-assisted development using Claude's Computer Use API
@@ -16,7 +14,7 @@ I'm a Swiss MSc Finance student passionate about bridging the gap between tradit
 *A window into my research and interests*
 - 📝 Technical blog and research findings (coming soon)
 - 📚 Project documentation and insights
-- 🔒 Cybersecurity focused portfolio website: [View Live Beta Version](https://www.lucaskemper.com) | [GitHub Repo](https://github.com/lucaskemper/portfolio-website)
+- 🔒 Cybersecurity focused portfolio website (using entreprise-grade infrastructures): [View Live Beta Version](https://www.lucaskemper.com) | [GitHub Repo](https://github.com/lucaskemper/portfolio-website)
 - ⚠️ Server is currently down for routine maintenance
 
 ### 🔬 Research & Development
@@ -26,9 +24,9 @@ Currently working on:
 - 🔬 Research Paper: [Read More](https://www.lucaskemper.com/papers)
 
 ### 🌍 Let's Connect
-[View my formal resume](https://drive.google.com/file/d/1-LVaXM0THZLzIH57vgyq_GIORNOFywJu/view?usp=drive_link)
+[View my formal resume](https://drive.google.com/file/d/1aqyCATMrgJFI9ApifSsImU14DGYee0Yu/view?usp=sharing)
 <div align="center">
-  
+  https://drive.google.com/file/d/1aqyCATMrgJFI9ApifSsImU14DGYee0Yu/view?usp=sharing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/lucas-kemper)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](mailto:lucas.kemper01@gmail.com)
 
