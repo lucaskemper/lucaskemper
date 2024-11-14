@@ -1,12 +1,6 @@
 # Lucas Kemper
 
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=435&lines=Quantitative+Finance+%2B+AI;MSc+Finance+Student;Building+the+Future+of+FinTech" alt="Typing SVG" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FE,100:8E5FFE&height=120&section=header&text=Finance%20×%20AI%20Innovation&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</div>
-
 ## 👋 About Me
 I'm a Swiss MSc Finance student passionate about bridging the gap between traditional finance and cutting-edge AI technology. With a strong foundation in quantitative finance and exceptional analytical  and problem solving capabilities, I excel at breaking down complex challenges into actionable solutions. My methodical approach to problem-solving, combined with my ability to synthesize large amounts of data, allows me to develop innovative strategies at the intersection of finance and technology.
 
