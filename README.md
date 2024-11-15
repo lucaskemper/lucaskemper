@@ -24,13 +24,6 @@ Currently innovating in:
 - 🤝 Next-gen financial chatbot frameworks [View Project](https://github.com/lucaskemper/llm-finance-analysis-project)
 - 🔬 Pioneering Research: ["Exploring New AI Boundaries with Claude Computer Use API"](https://www.lucaskemper.com/papers)
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
 ### 🌍 Let's Shape the Future of Finance Together
 [📄 View Complete Resume](https://drive.google.com/file/d/1aqyCATMrgJFI9ApifSsImU14DGYee0Yu/view?usp=sharing)
 
