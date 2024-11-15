@@ -1,11 +1,9 @@
 # Lucas Kemper
 
-
 ## 👋 About Me
-I'm a Swiss MSc Finance student passionate about bridging the gap between traditional finance and cutting-edge AI technology. With a strong foundation in quantitative finance and exceptional analytical  and problem solving capabilities, I excel at breaking down complex challenges into actionable solutions. My methodical approach to problem-solving, combined with my ability to synthesize large amounts of data, allows me to develop innovative strategies at the intersection of finance and technology.
+I'm a Swiss MSc Finance student passionate about bridging the gap between traditional finance and cutting-edge AI technology. With a strong foundation in quantitative finance and exceptional analytical and problem solving capabilities, I excel at breaking down complex challenges into actionable solutions. My methodical approach to problem-solving, combined with my ability to synthesize large amounts of data, allows me to develop innovative strategies at the intersection of finance and technology.
 
 ## 🎯 Current Focus
-
 - 🤖 Building an advanced LLM framework for financial analysis
 - 📊 Exploring AI applications in quantitative finance
 - 🔬 Research in AI-assisted development using Claude's Computer Use API
@@ -24,13 +22,6 @@ Currently working on:
 
 ### 🌍 Let's Connect
 [View my formal resume](https://drive.google.com/file/d/1aqyCATMrgJFI9ApifSsImU14DGYee0Yu/view?usp=sharing)
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/lucas-kemper)
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](mailto:contact@lucaskemper.com)
-
-
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-kemper)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lucaskemper.com)
