@@ -38,6 +38,7 @@ def skills():
         ]
     }
 
+---
 ## 🎯 Current Focus
 - 🤖 Developing an advanced LLM framework for sophisticated financial analysis
 - 📊 Pioneering AI applications in quantitative trading and market prediction
