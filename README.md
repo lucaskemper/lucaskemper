@@ -6,36 +6,6 @@
 At the intersection of finance and artificial intelligence, I explore how cutting-edge AI can revolutionize financial markets. As a Swiss MSc Finance student, I combine rigorous quantitative analysis with innovative AI approaches to develop next-generation financial solutions.
 
 My work is driven by the belief that AI will fundamentally transform how we understand and interact with financial systems. Through methodical problem-solving and data synthesis, I build bridges between traditional finance and emerging AI technologies.
-## 🛠️ Technical Stack
-```python
-def skills():
-    return {
-        "languages": [
-            "Python (Financial Modeling, Data Analysis, Algorithmic Trading)",
-            "C++ (Beginner)",
-            "SQL",
-            "MATLAB",
-            "Stata"
-        ],
-        "finance": [
-            "Asset & Risk Management",
-            "Financial Analysis (M&A)",
-            "Financial Modeling",
-            "Market Analysis"
-        ],
-        "ai_ml": [
-            "AI Implementation Strategy",
-            "Large Language Models",
-            "Claude Computer Use API",
-            "AI-Assisted Development"
-        ],
-        "tools": [
-            "Excel (Financial Forecasting)",
-            "GitHub",
-            "Stata",
-            "MATLAB"
-        ]
-    }
 
 ## 🎯 Current Focus
 - 🤖 Developing an advanced LLM framework for sophisticated financial analysis
