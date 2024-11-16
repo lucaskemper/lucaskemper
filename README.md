@@ -8,6 +8,7 @@ At the intersection of finance and artificial intelligence, I explore how cuttin
 My work is driven by the belief that AI will fundamentally transform how we understand and interact with financial systems. Through methodical problem-solving and data synthesis, I build bridges between traditional finance and emerging AI technologies.
 
 ## 🛠️ Technical Stack
+
 ```python
 def skills():
     return {
@@ -38,11 +39,8 @@ def skills():
         ]
     }
 
-
-## 🎯 Current Focus
-- 🤖 Developing an advanced LLM framework for sophisticated financial analysis
-- 📊 Pioneering AI applications in quantitative trading and market prediction
-- 🔬 Conducting groundbreaking research on AI-assisted development with Claude's Computer Use API
+🎯 Current Focus
+🤖 Developing an advanced LLM framework for sophisticated financial analysis
 
 ### 🌐 Portfolio & Research Hub
 *Exploring the future of AI-powered finance*
