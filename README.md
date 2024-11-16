@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated brain" width="100px" style="border-radius: 50%;"> 
 
 ## 👋 About Me
-At the intersection of finance and artificial intelligence, I explore how cutting-edge AI can revolutionize financial markets. As a Swiss MSc Finance student, I combine rigorous quantitative analysis with innovative AI approaches to develop next-generation financial solutions. My work is driven by the belief that AI will fundamentally transform how we understand and interact with financial systems. Through methodical problem-solving and data synthesis, I build bridges between traditional finance and emerging AI technologies.
+
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="animated robot" width="150px" align="right" style="margin-left: 20px;">
 
