@@ -27,11 +27,7 @@ Currently innovating in:
 - 🤝 Next-gen financial chatbot frameworks [View Project](https://github.com/lucaskemper/llm-finance-analysis-project)
 - 🔬 Pioneering Research: ["Exploring New AI Boundaries with Claude Computer Use API"](https://www.lucaskemper.com/papers)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2aJCCKS4DF1V9IpGdz/giphy.gif" alt="animated finance" style="max-width: 100%;">
-</p>
-
-### 🌍 Let's Shape the Future of Finance Together
+### 🌍 Get In Touch
 [📄 View Complete Resume](https://drive.google.com/file/d/1aqyCATMrgJFI9ApifSsImU14DGYee0Yu/view?usp=sharing)
 
 <a href="https://linkedin.com/in/lucas-kemper">
