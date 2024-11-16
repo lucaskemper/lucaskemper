@@ -12,25 +12,6 @@ My work is driven by the belief that AI will fundamentally transform how we unde
 ```python
 def skills():
     return {
-        "languages": [
-            "Python (Financial Modeling, Data Analysis, Algorithmic Trading)",
-            "C++ (Beginner)",
-            "SQL",
-            "MATLAB",
-            "Stata"
-        ],
-        "finance": [
-            "Asset & Risk Management",
-            "Financial Analysis (M&A)",
-            "Financial Modeling",
-            "Market Analysis"
-        ],
-        "ai_ml": [
-            "AI Implementation Strategy",
-            "Large Language Models",
-            "Claude Computer Use API",
-            "AI-Assisted Development"
-        ],
         "tools": [
             "Excel (Financial Forecasting)",
             "GitHub",
@@ -41,6 +22,10 @@ def skills():
 
 🎯 Current Focus
 🤖 Developing an advanced LLM framework for sophisticated financial analysis
+🌐 Portfolio & Research Hub
+Exploring the future of AI-powered finance
+📝 In-depth technical analysis and research findings (coming soon)
+📚 Comprehensive project documentation and insights
 
 ### 🌐 Portfolio & Research Hub
 *Exploring the future of AI-powered finance*
