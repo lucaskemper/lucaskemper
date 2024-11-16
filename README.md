@@ -25,7 +25,6 @@ Currently innovating in:
 - 🔬 Pioneering Research: ["Exploring New AI Boundaries with Claude Computer Use API"](https://www.lucaskemper.com/papers)
 
 ### 🌍 Get In Touch
-[📄 View Complete Resume](https://drive.google.com/file/d/1aqyCATMrgJFI9ApifSsImU14DGYee0Yu/view?usp=sharing)
 
 <a href="https://linkedin.com/in/lucas-kemper">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
