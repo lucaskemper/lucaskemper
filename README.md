@@ -11,9 +11,6 @@ At the intersection of finance and artificial intelligence, I explore how cuttin
 - 📊 Pioneering AI applications in quantitative trading and market prediction
 - 🔬 Conducting groundbreaking research on AI-assisted development with Claude's Computer Use API
 
-<div style="position:relative; width:100%; height:0; padding-bottom:56.25%;">
-<iframe src="https://giphy.com/embed/d8i311zJKYsqfW2YRJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
 
 ### 🌐 Portfolio & Research Hub 
 *Exploring the future of AI-powered finance*
