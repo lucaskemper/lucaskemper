@@ -6,7 +6,7 @@ At the intersection of finance and artificial intelligence, I explore how cuttin
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="animated robot" width="150px" align="right" style="margin-left: 20px;">
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 - 🤖 Developing an advanced LLM framework for sophisticated financial analysis 
 - 📊 Pioneering AI applications in quantitative trading and market prediction
 - 🔬 Conducting groundbreaking research on AI-assisted development with Claude's Computer Use API
