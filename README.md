@@ -16,7 +16,7 @@
 *Exploring the future of AI-powered finance*
 - 📝 In-depth technical analysis and research findings (coming soon)
 - 📚 Comprehensive project documentation and insights
-- 🔒 Enterprise-grade secure portfolio platform: [Live Beta](https://www.lucaskemper.com) | [Source Code](https://github.com/lucaskemper/portfolio-website)
+- 🔒 Enterprise-grade secure portfolio platform: [Live Beta](https://www.lucaskemper.com) | [Git Repo](https://github.com/lucaskemper/portfolio-website)
 
 ### 🔬 Active Projects
 Currently innovating in:
