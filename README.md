@@ -19,10 +19,9 @@
 - 🔒 Enterprise-grade secure portfolio platform: [Live Beta](https://www.lucaskemper.com) | [Git Repo](https://github.com/lucaskemper/portfolio-website)
 
 ### 🔬 Active Projects
-Currently innovating in:
 - 💹 Advanced quantitative trading algorithms (Python) 
 - 🤝 Next-gen financial chatbot frameworks [View Project](https://github.com/lucaskemper/llm-finance-analysis-project)
-- 🔬 Pioneering Research: ["Exploring New AI Boundaries with Claude Computer Use API"](https://www.lucaskemper.com/papers)
+- 🔬 Research: ["Exploring New AI Boundaries with Claude Computer Use API"](https://www.lucaskemper.com/papers)
 
 ### 🌍 Get In Touch
 
