@@ -19,7 +19,7 @@
 - 🔒 Enterprise-grade secure portfolio platform: [Live Beta](https://www.lucaskemper.com) | [Git Repo](https://github.com/lucaskemper/portfolio-website)
 
 ### 🔬 Active Projects
-- 💹 Advanced Portfolio Risk Analysis using Monte Carlo Methods (Work in progress)
+- 💹 Advanced Portfolio Risk Analysis using Machine Learning & Monte Carlo Methods (Work in progress)
 - 🤝 Next-gen financial chatbot frameworks [View Project](https://github.com/lucaskemper/llm-finance-analysis-project)
 - 🔬 Research: ["Exploring New AI Boundaries with Claude Computer Use API"](https://www.lucaskemper.com/papers)
 
