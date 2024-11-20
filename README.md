@@ -1,7 +1,7 @@
 # Lucas Kemper ![Profile Views](https://komarev.com/ghpvc/?username=lucaskemper&color=blue) ![Research Focus](https://img.shields.io/badge/Research-AI%20%2B%20Finance-brightgreen) ![Location](https://img.shields.io/badge/Location-Switzerland-red)  
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated brain" width="100px" style="border-radius: 50%;"> 
 
-## 👋 Thanks for visiting my GitHub !
+##  👋 Welcome to my GitHub :)
 
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="animated robot" width="150px" align="right" style="margin-left: 20px;">
