@@ -9,7 +9,7 @@
 ### 🎯 Current Focus
 - 🤖 Developing an advanced LLM framework for sophisticated financial analysis 
 - 📊 Pioneering AI applications in quantitative trading and market prediction
-- 🔬 Conducting groundbreaking research on AI-assisted development with Claude's Computer Use API
+- 🔬 Conducting research on AI-assisted development 
 
 
 ### 🌐 Portfolio & Research Hub 
