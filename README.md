@@ -8,7 +8,7 @@
 
 ### 🎯 Current Focus
 - 🤖 Developing an advanced LLM framework for sophisticated financial analysis 
-- 📊 Pioneering AI applications in quantitative trading and market prediction
+- 📊 AI applications in quantitative trading and market prediction
 - 🔬 Conducting research on AI-assisted development 
 
 
