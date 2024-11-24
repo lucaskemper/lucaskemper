@@ -12,7 +12,7 @@ tech_stack = {
    'Infrastructure': ['Enterprise Architecture', 'Security Protocols'],
    'Research': ['Quantitative Finance', 'Market Analysis', 'Risk Management']
 }
-
+'''
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="animated robot" width="150px" align="right" style="margin-left: 20px;">
 
 ### 🎯 Current Focus
