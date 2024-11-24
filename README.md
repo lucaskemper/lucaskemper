@@ -12,7 +12,7 @@
 - 🔬 Conducting research on AI-assisted development 
 
 
-### 🌐 Portfolio & Research Hub 
+### 🌐 Portfolio 
 *Exploring the future of AI-powered finance*
 - 📝 In-depth technical analysis and research findings (coming soon)
 - 📚 Comprehensive project documentation and insights
