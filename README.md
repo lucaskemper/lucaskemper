@@ -22,7 +22,7 @@
 - 💹 Advanced Portfolio Risk Analysis using Machine Learning & Monte Carlo Methods [Work in progress](https://github.com/lucaskemper/portfolio-risk-mc)
 - 🤝 Next-gen financial chatbot frameworks [View Project](https://github.com/lucaskemper/llm-finance-analysis-project)
 - 🔬 Research: ["Exploring New AI Boundaries with Claude Computer Use API"](https://www.lucaskemper.com/papers)
-- 💎🚀🌕 Crypto Trading System - Advanced Market Analysis Framework ["View Readme (Project is private)"](https://github.com/lucaskemper/crypto_algo)
+- 💎🚀🌕 Crypto Trading System - Advanced Market Analysis Framework [View Readme (Project is private)](https://github.com/lucaskemper/crypto_algo)
 
 
 ### 🌍 Get In Touch
