@@ -3,6 +3,15 @@
 
 ##  👋 Welcome to my GitHub :)
 
+### 🛠️ Technical Arsenal
+```python
+tech_stack = {
+   'AI/ML': ['PyTorch', 'TensorFlow', 'LLMs', 'GARCH Models'],
+   'Data Science': ['Python', 'Pandas', 'NumPy', 'SciPy'],
+   'Web Dev': ['Vue.js', 'Tailwind CSS', 'Node.js'],
+   'Infrastructure': ['Enterprise Architecture', 'Security Protocols'],
+   'Research': ['Quantitative Finance', 'Market Analysis', 'Risk Management']
+}
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="animated robot" width="150px" align="right" style="margin-left: 20px;">
 
