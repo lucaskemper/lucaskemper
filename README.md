@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="animated robot" width="150px" align="right" style="margin-left: 20px;">
 
 ### 🎯 Current Focus
-- 🤖 Developing an advanced LLM framework for sophisticated financial analysis 
+- 🤖 Classwork 
 - 📊 AI applications in quantitative trading and market prediction
 - 🔬 Conducting research on AI-assisted development 
 
