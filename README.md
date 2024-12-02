@@ -43,22 +43,6 @@ Specialized in high-performance computational finance and artificial intelligenc
 - DOM Complete: 423ms
 - Optimized bundle size: 8KB (mobile) to 111KB (desktop)
 
-### Technical Stack
-```python
-# Core Technology Stack
-INFRASTRUCTURE = {
-    'compute': ['AWS', 'GCP', 'Bare Metal'],
-    'networking': ['Custom TCP/IP Stack', 'FPGA Acceleration'],
-    'storage': ['InfluxDB', 'TimescaleDB', 'Redis'],
-    'processing': ['CUDA', 'OpenCL', 'Tensor Cores']
-}
-
-MACHINE_LEARNING = {
-    'frameworks': ['PyTorch', 'TensorFlow', 'JAX'],
-    'deployment': ['ONNX', 'TensorRT', 'CoreML'],
-    'optimization': ['Quantization', 'Pruning', 'KD']
-}
-```
 
 ### Security Implementation
 - Zero-trust architecture
