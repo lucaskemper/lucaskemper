@@ -9,7 +9,7 @@
 ### 🎯 Current Focus
 - 🤖 Classwork 
 - 📊 AI applications in quantitative trading and market prediction
-- 🔬 Conducting research on AI-assisted development 
+- 🔬 Conducting research on AI-assisted development & Quantative Finance
 
 
 ### 🌐 Portfolio 
