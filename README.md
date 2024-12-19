@@ -36,8 +36,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskemper&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
+## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucaskemper&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true&row=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lucaskemper&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ## 📊 Contribution Activity
@@ -45,7 +46,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaskemper&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
-🏆 Achievements
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaskemper/lucaskemper/output/github-contribution-grid-snake-dark.svg" />
