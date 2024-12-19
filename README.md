@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/lucaskemper/lucaskemper/main/assets/header.gif" width="800" height="200" alt="header"/>
 
   # Lucas Kemper 
-  *[ AI Researcher | Quantitative Developer | Financial Engineer ]*
+  *[ Quant Finance & AI Researcher | Quantitative Developer | Financial Engineer ]*
 
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="animated robot" width="150px" align="right">
