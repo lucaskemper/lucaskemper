@@ -4,14 +4,10 @@
   # Lucas Kemper 
   *[ AI Researcher | Quantitative Developer | Financial Engineer ]*
 
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="animated brain" width="100px" style="border-radius: 50%;"> 
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F701&center=true&vCenter=true&width=435&lines=AI+Research+%F0%9F%A4%96;Quantitative+Finance+%F0%9F%93%88;Smart+Contracts+%F0%9F%94%97;Neural+Networks+%F0%9F%A7%A0)](https://git.io/typing-svg)
-</div>
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="animated robot" width="150px" align="right">
 
-## 🚀 Tech Arsenal
+## 🚀 Tech Stack
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=python,js,r,golang,rust,solidity,aws,gcp,docker,kubernetes,pytorch,tensorflow,git,mongodb,postgres&perline=5)](https://github.com/lucaskemper)
