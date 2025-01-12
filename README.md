@@ -1,35 +1,30 @@
 # <div align="center">![Header](https://raw.githubusercontent.com/lucaskemper/lucaskemper/main/assets/header.gif)</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=435&lines=Quant+Finance+%26+AI+Researcher;Quantitative+Developer;Financial+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=435&lines=Quant+Finance+Researcher;Quantitative+Trading;Financial+Markets;Machine+Learning+in+Finance" alt="Typing SVG" />
 </div>
 
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskemper&theme=radical&hide_border=true" />
 
 ## 👨‍💻 About Me
-- 🔬 Researching quantitative finance and AI applications
-- 💻 Building financial engineering solutions
-- 📊 Specializing in risk analysis and portfolio optimization
-- 🤖 Developing ML models for market prediction
+- 🔬 Quantitative Finance Researcher
+- 📊 Specializing in financial markets analysis
+- 🤖 Developing trading strategies using ML
+- 📈 Working on market modeling and prediction
 
 ## 🛠️ Tech Stack
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
   
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
 ## 📊 GitHub Stats
@@ -43,8 +38,8 @@
 
 <div align="center">
   
-[![Portfolio Risk MC](https://github-readme-stats.vercel.app/api/pin/?username=lucaskemper&repo=portfolio-risk-mc&theme=radical)](https://github.com/lucaskemper/portfolio-risk-mc)
-[![LLM Finance Analysis](https://github-readme-stats.vercel.app/api/pin/?username=lucaskemper&repo=llm-finance-analysis-project&theme=radical)](https://github.com/lucaskemper/llm-finance-analysis-project)
+[![Quant Research](https://github-readme-stats.vercel.app/api/pin/?username=lucaskemper&repo=quant-research&theme=radical)](https://github.com/lucaskemper/quant-research)
+[![ML Trading](https://github-readme-stats.vercel.app/api/pin/?username=lucaskemper&repo=ml-trading-strategies&theme=radical)](https://github.com/lucaskemper/ml-trading-strategies)
 
 </div>
 
@@ -64,16 +59,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-kemper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaskemper/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lucaskemper.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.lucaskemper.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lucaskemper&color=blueviolet&style=for-the-badge)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucaskemper/lucaskemper/output/github-contribution-grid-snake.svg" />
 </div>
