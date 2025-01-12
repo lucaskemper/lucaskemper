@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=435&lines=Quant+Finance+Researcher;Quantitative+Trading;Financial+Markets;Machine+Learning+in+Finance" alt="Typing SVG" />
 </div>
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaskemper&theme=radical&hide_border=true" />
-
 ## 👨‍💻 About Me
 - 🔬 Quantitative Finance Researcher
 - 📊 Specializing in financial markets analysis
