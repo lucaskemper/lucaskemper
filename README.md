@@ -34,14 +34,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskemper&theme=radical&hide_border=true&layout=compact" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-[![Quant Research](https://github-readme-stats.vercel.app/api/pin/?username=lucaskemper&repo=quant-research&theme=radical)](https://github.com/lucaskemper/quant-research)
-[![ML Trading](https://github-readme-stats.vercel.app/api/pin/?username=lucaskemper&repo=ml-trading-strategies&theme=radical)](https://github.com/lucaskemper/ml-trading-strategies)
-
-</div>
 
 ## 📈 Contribution Graph
 
