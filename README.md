@@ -19,10 +19,10 @@
 > 
 > *Published Research Paper | [ResearchGate](https://www.researchgate.net/publication/386573463)*
 > 
-> - **Methodology**: Novel hybrid framework combining Hidden Markov Models with LSTM networks
-> - **Performance**: Achieved Sharpe ratio of 0.73 and Information ratio of 0.68
-> - **Validation**: Empirical testing on 1,759 trading days with statistically significant regime identification (p < 0.05)
-> - **Impact**: Regime persistence rates exceeding 80% across all market states
+> - **Methodology**: Methodology: Developed novel hybrid machine learning framework combining Hidden Markov Models (HHM) with Long Short-Term Memory (LSTM) networks for dynamic market regime identification
+> - **Focus**: Applied advanced time-series analysis to semiconductor equity markets, leveraging sector-specific volatility patterns and cyclical behaviors
+> - **Innovation**: Created predictive model capable of real-time regime switching detection, enabling enhanced risk management and portfolio optimization strategies
+
 
 ## 🔥 **Key Projects**
 
@@ -96,10 +96,6 @@ Research-driven cryptocurrency trading system with statistical arbitrage and sen
 **Bachelor of Science in Management** | *University of Lausanne - HEC Lausanne* (2021-2024)  
 **Study Abroad** | *Hong Kong Baptist University* (2023-2024)
 
-**Professional Experience**: AI & Finance Consultant at Trimos SA (2022-Present)
-- Developed predictive analytics for M&A transactions
-- Implemented LLM-based customer service automation
-- Led quantitative financial analysis for market expansion
 
 ## 📊 **GitHub Analytics**
 
@@ -132,10 +128,8 @@ Research-driven cryptocurrency trading system with statistical arbitrage and sen
 
 <div align="center">
   
-**🇨🇭 Based in Belmont-sur-Lausanne, Switzerland**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lucaskemper&color=blueviolet&style=for-the-badge)
 
-*"Bridging academic research and production-ready financial systems through advanced quantitative methods and AI innovation"*
 
 </div>
