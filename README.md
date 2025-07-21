@@ -40,8 +40,7 @@ Research-driven cryptocurrency trading system with statistical arbitrage and sen
 
 **Technical Highlights:**
 - **Statistical Arbitrage**: Cointegration analysis with OLS/Kalman filtering
-- **AI Sentiment Analysis**: GPT-3.5-turbo integration for market sentiment scoring
-- **Real-time Processing**: WebSocket streaming, <50ms order execution
+- **AI Sentiment Analysis**: LLM integration for market sentiment scoring
 - **Risk Management**: Multi-level controls, circuit breakers, comprehensive monitoring
 
 ## 🛠️ **Technical Stack**
