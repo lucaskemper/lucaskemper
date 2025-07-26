@@ -6,117 +6,91 @@
 
 ## 🔬 Research & Expertise
 
-**Quantitative Finance Researcher** specializing in **market regime detection** and **algorithmic trading systems**
+**Quantitative Finance Researcher** specializing in **market regime detection**, **risk overlays**, and **algorithmic trading systems**
 
 ### 🎯 **Core Research Areas**
-- **Market Regime Detection**: Hybrid HMM-LSTM frameworks for dynamic market state identification
-- **Statistical Arbitrage**: Cointegration-based trading strategies with advanced risk management
-- **AI-Powered Trading**: LLM-enhanced sentiment analysis for cryptocurrency markets
-- **Risk Management**: Institutional-grade VaR/CVaR modeling and portfolio optimization
+- **Market Regime Detection**: Hybrid HMM-LSTM frameworks with Bayesian model averaging
+- **Statistical Arbitrage**: Cointegration-based trading with dynamic volatility/risk filters
+- **AI-Powered Trading**: LLM-enhanced sentiment signals for crypto and macro
+- **Risk Management**: VaR/CVaR analytics, volatility targeting, and regime-based de-risking
 
 ### 📊 **Current Research**
-> **"HMM-LSTM Hybrid Detection of Market Regimes: Evidence from Semiconductor Equity Markets"**
-> 
-> *Published Research Paper | [ResearchGate](https://www.researchgate.net/publication/386573463)*
-> 
-> - **Methodology**: Methodology: Developed novel hybrid machine learning framework combining Hidden Markov Models (HHM) with Long Short-Term Memory (LSTM) networks for dynamic market regime identification
-> - **Focus**: Applied advanced time-series analysis to semiconductor equity markets, leveraging sector-specific volatility patterns and cyclical behaviors
-> - **Innovation**: Created predictive model capable of real-time regime switching detection, enabling enhanced risk management and portfolio optimization strategies
+> **"Hybrid Regime Detection and Risk Management in Semiconductor Equities: A Bayesian HMM-LSTM Framework"**  
+> *Published on SSRN* | [SSRN Link Pending]  
+>  
+> - Combined HMM and LSTM outputs using entropy-weighted Bayesian model averaging for regime probabilities
+> - Achieved >50% volatility reduction and 15–17pt drawdown improvement vs static benchmarks
+> - Designed real-time portfolio de-risking engine based on regime confidence and macro conditions
 
+## 🔥 Key Projects
 
-## 🔥 **Key Projects**
+### 🏦 **Regime-Aware Risk Simulation Framework** *(2024)*
+> Advanced Monte Carlo and volatility-based backtesting system with GARCH + regime detection overlay
 
-### 🏦 **Portfolio Risk MC Prod** - *Professional Quantitative Finance Framework*
-Advanced Monte Carlo simulation and risk management system for institutional-grade portfolio analysis
+- GMM-based regime detection with dynamic transition modeling
+- Simulation engine supporting stress tests and multi-horizon VaR/ES
+- Configurable drawdown caps, position sizing overlays, and portfolio diagnostics
 
-**Key Features:**
-- **GMM-Based Regime Detection**: Automated model selection with parallel processing
-- **Monte Carlo Simulation**: 10,000+ simulation paths with regime-aware risk management  
-- **Advanced Risk Controls**: VaR/CVaR, dynamic position sizing, volatility targeting
-- **Production Architecture**: Async processing, Docker/Kubernetes deployment
+### 🚀 **Systematic Crypto Trading Bot** *(2025)*
+> Multi-factor signal engine with AI-powered sentiment and real-time risk control
 
-### 🚀 **Crypto Trading & Arbitrage Bot** - *AI-Powered Trading System*
-Research-driven cryptocurrency trading system with statistical arbitrage and sentiment analysis
+- Statistical arbitrage (cointegration, Kalman filter) + RidgeCV signal blending
+- LLM-powered sentiment scoring (Twitter/news feeds) with multi-regime interpretation
+- Volatility-scaling, circuit breakers, and async WebSocket execution
 
-**Technical Highlights:**
-- **Statistical Arbitrage**: Cointegration analysis with OLS/Kalman filtering
-- **AI Sentiment Analysis**: LLM integration for market sentiment scoring
-- **Risk Management**: Multi-level controls, circuit breakers, comprehensive monitoring
+## 🛠️ Technical Stack
 
-## 🛠️ **Technical Stack**
-
-### **Programming & Data Science**
+### Programming & Analytics
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-  
+
 </div>
 
-### **Machine Learning & AI**
+### Machine Learning & AI
 <div align="center">
   
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  
+
 </div>
 
-### **Infrastructure & Deployment**
+### Infrastructure & Deployment
 <div align="center">
   
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  
+
 </div>
 
-## 📈 **Research Impact**
+## 📈 Research Impact
 
-### **Academic Contributions**
-- **Published Research**: Advanced regime detection methodologies in financial markets
-- **Statistical Significance**: p < 0.05 validation across 1,759 trading days
-- **Performance Metrics**: Sharpe ratio 0.73, Information ratio 0.68
-- **Regime Persistence**: 80%+ accuracy in market state identification
+### Academic Contributions
+- SSRN working paper on hybrid HMM-LSTM regime detection
+- Monte Carlo scenarios, multi-horizon VaR/ES, and empirical signal diagnostics
 
-### **Industry Applications**
-- **Institutional-Grade Systems**: Production-ready financial frameworks
-- **Risk Management**: Advanced VaR/CVaR modeling with multi-horizon analysis
-- **Trading Infrastructure**: Real-time processing with microsecond latency optimization
-- **AI Integration**: LLM-powered sentiment analysis for market forecasting
+### Industry Applications
+- Modular, production-ready architecture (Live/Backtest/StressTest)
+- Dynamic de-risking overlays for volatility and drawdown suppression
+- Signal engines integrating macro, technical, and sentiment signals
+- LLM integration for real-time signal augmentation and diagnostics
 
-## 🎓 **Education & Background**
+## 🎓 Education
 
-**Masters of Science in Finance** | *Católica Lisbon School of Business & Economics* (2025-2026)  
-**Bachelor of Science in Management** | *University of Lausanne - HEC Lausanne* (2021-2024)  
-**Study Abroad** | *Hong Kong Baptist University* (2023-2024)
+**MSc Finance** — Católica Lisbon SBE (2025–2027)  
+**BSc Management** — HEC Lausanne (2021–2024)  
+**Exchange** — HKBU Hong Kong (2023–2024)
 
-
-## 📊 **GitHub Analytics**
-
+## 🌐 Connect
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucaskemper&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskemper&theme=radical&hide_border=true&layout=compact" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaskemper&theme=radical" width="100%" />
-</div>
-
-## 🏆 **Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucaskemper&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
-</div>
-
-## 🌍 **Professional Network**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaskemper/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Lucas-Kemper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaskemper/) 
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaskemper) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.kemper01@gmail.com)
 
 </div>
@@ -125,8 +99,6 @@ Research-driven cryptocurrency trading system with statistical arbitrage and sen
 
 <div align="center">
   
-
 ![Profile Views](https://komarev.com/ghpvc/?username=lucaskemper&color=blueviolet&style=for-the-badge)
-
 
 </div>
