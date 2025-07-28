@@ -24,12 +24,12 @@
 
 ## 🔥 Key Projects
 
-### 🏦 **Regime-Aware Risk Simulation Framework** *(2024)*
-> Advanced Monte Carlo and volatility-based backtesting system with GARCH + regime detection overlay
+### 🔮 **Narrative Alpha Detector – Prediction Market Mispricing Scanner** *(2025)*
+> LLM-based signal system for detecting retail mispricings in prediction markets
 
-- GMM-based regime detection with dynamic transition modeling
-- Simulation engine supporting stress tests and multi-horizon VaR/ES
-- Configurable drawdown caps, position sizing overlays, and portfolio diagnostics
+- Built an LLM-powered system to detect mispriced Polymarket contracts by comparing market odds to confidence-weighted AI probability priors
+- Integrated Perplexity Sonar for real-time event forecasting, applied clipping/sanity checks to mitigate hallucinated signals
+- Generated expected value rankings, interactive dashboards, and mispricing visualizations for sentiment alpha exploration
 
 ### 🚀 **Systematic Crypto Trading Bot** *(2025)*
 > Multi-factor signal engine with AI-powered sentiment and real-time risk control
@@ -44,6 +44,13 @@
 - Integrated Perplexity Sonar for real-time event forecasting, applied clipping/sanity checks to mitigate hallucinated signals
 - Generated expected value rankings, interactive dashboards, and mispricing visualizations for sentiment alpha exploration
 
+### 🏦 **Regime-Aware Risk Simulation Framework** *(2024)*
+> Advanced Monte Carlo and volatility-based backtesting system with GARCH + regime detection overlay
+
+- GMM-based regime detection with dynamic transition modeling
+- Simulation engine supporting stress tests and multi-horizon VaR/ES
+- Configurable drawdown caps, position sizing overlays, and portfolio diagnostics
+  
 ## 🛠️ Technical Stack
 
 ### Programming & Analytics
