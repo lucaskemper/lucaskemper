@@ -37,7 +37,7 @@
 - Statistical arbitrage (cointegration, Kalman filter) + RidgeCV signal blending
 - Volatility-scaling, circuit breakers, and async WebSocket execution
 
-### 🚀 **Narrative Alpha Detector – Prediction Market Mispricing Scanner** *(2025)*
+### 🔮 **Narrative Alpha Detector – Prediction Market Mispricing Scanner** *(2025)*
 > LLM-based signal system for detecting retail mispricings in prediction markets
 
 - Built an LLM-powered system to detect mispriced Polymarket contracts by comparing market odds to confidence-weighted AI probability priors
