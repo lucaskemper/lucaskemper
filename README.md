@@ -35,8 +35,14 @@
 > Multi-factor signal engine with AI-powered sentiment and real-time risk control
 
 - Statistical arbitrage (cointegration, Kalman filter) + RidgeCV signal blending
-- LLM-powered sentiment scoring (Twitter/news feeds) with multi-regime interpretation
 - Volatility-scaling, circuit breakers, and async WebSocket execution
+
+### 🚀 **Narrative Alpha Detector – Prediction Market Mispricing Scanner** *(2025)*
+> LLM-based signal system for detecting retail mispricings in prediction markets
+
+- Built an LLM-powered system to detect mispriced Polymarket contracts by comparing market odds to confidence-weighted AI probability priors
+- Integrated Perplexity Sonar for real-time event forecasting, applied clipping/sanity checks to mitigate hallucinated signals
+- Generated expected value rankings, interactive dashboards, and mispricing visualizations for sentiment alpha exploration
 
 ## 🛠️ Technical Stack
 
