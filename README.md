@@ -16,7 +16,7 @@
 
 ### 📊 **Current Research**
 > **"Hybrid Regime Detection and Risk Management in Semiconductor Equities: A Bayesian HMM-LSTM Framework"**  
-> *Published on SSRN* | [Link(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366835)]  
+> *Published on SSRN* | [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366835)]  
 >  
 > - Combined HMM and LSTM outputs using entropy-weighted Bayesian model averaging for regime probabilities
 > - Achieved >50% volatility reduction and 15–17pt drawdown improvement vs static benchmarks
