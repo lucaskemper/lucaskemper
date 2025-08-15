@@ -31,7 +31,7 @@
 - Integrated Perplexity Sonar for real-time event forecasting, applied clipping/sanity checks to mitigate hallucinated signals
 - Generated expected value rankings, interactive dashboards, and mispricing visualizations for sentiment alpha exploration
 
-### 🚀 **Systematic Crypto Trading Bot** *(2025)*
+### 🚀 **Systematic Crypto Trading Bot** *(2024)*
 > Multi-factor signal engine with AI-powered sentiment and real-time risk control
 
 - Statistical arbitrage (cointegration, Kalman filter) + RidgeCV signal blending
@@ -96,7 +96,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaskemper/) 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaskemper) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.kemper01@gmail.com)
 
 </div>
