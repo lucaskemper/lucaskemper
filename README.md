@@ -1,100 +1,48 @@
-# <div align="center">![Header](https://raw.githubusercontent.com/lucaskemper/lucaskemper/main/assets/header.gif)</div>
+# Lucas Kemper
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=500&lines=Quantitative+Finance+Researcher;HMM-LSTM+Regime+Detection;Statistical+Arbitrage+Systems;AI-Powered+Trading+Solutions" alt="Typing SVG" />
-</div>
+Quantitative finance researcher specializing in market regime detection and systematic trading systems.
 
-## 🔬 Research & Expertise
+## Research
 
-**Quantitative Finance Researcher** specializing in **market regime detection**, **risk overlays**, and **algorithmic trading systems**
+**Hybrid Regime Detection in Semiconductor Equities: A Bayesian HMM-LSTM Framework**  
+*SSRN Working Paper* | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366835) | [Code](https://github.com/lucaskemper/hybridquantregimes)
 
-### 🎯 **Core Research Areas**
-- **Market Regime Detection**: Hybrid HMM-LSTM frameworks with Bayesian model averaging
-- **Statistical Arbitrage**: Cointegration-based trading with dynamic volatility/risk filters
-- **AI-Powered Trading**: LLM-enhanced sentiment signals for crypto and macro
-- **Risk Management**: VaR/CVaR analytics, volatility targeting, and regime-based de-risking
+- Combined HMM and LSTM outputs using entropy-weighted Bayesian model averaging
+- Achieved >50% volatility reduction and 15-17pt drawdown improvement vs static benchmarks
+- Production-ready framework with comprehensive backtesting and Monte Carlo simulation
 
-### 📊 **Current Research**
-> **"Hybrid Regime Detection and Risk Management in Semiconductor Equities: A Bayesian HMM-LSTM Framework"**  
-> *Published on SSRN* | [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366835)]  
->  
-> - Combined HMM and LSTM outputs using entropy-weighted Bayesian model averaging for regime probabilities
-> - Achieved >50% volatility reduction and 15–17pt drawdown improvement vs static benchmarks
-> - Designed real-time portfolio de-risking engine based on regime confidence and macro conditions
+## Projects
 
-## 🔥 Key Projects
+**[HybridQuantRegimes](https://github.com/lucaskemper/hybridquantregimes)** - Market regime detection and risk management framework
+- Hybrid HMM-LSTM architecture with real-time regime classification
+- Dynamic risk overlays, walk-forward backtesting, Monte Carlo stress testing
+- Modular design for research and production deployment
 
-### 🔮 **Narrative Alpha Detector – Prediction Market Mispricing Scanner** *(2025)*
-> LLM-based signal system for detecting retail mispricings in prediction markets
+**Systematic Crypto Trading Infrastructure**
+- Statistical arbitrage (cointegration, Kalman filtering) with regime-aware execution
+- Multi-factor signal blending, volatility targeting, async WebSocket execution
+- RidgeCV meta-learning for signal optimization
 
-- Built an LLM-powered system to detect mispriced Polymarket contracts by comparing market odds to confidence-weighted AI probability priors
-- Integrated Perplexity Sonar for real-time event forecasting, applied clipping/sanity checks to mitigate hallucinated signals
-- Generated expected value rankings, interactive dashboards, and mispricing visualizations for sentiment alpha exploration
+**Narrative Alpha Detector** - Prediction market mispricing scanner
+- LLM-based system for detecting mispricings in prediction markets
+- Real-time forecasting integration with confidence-weighted probability priors
+- Expected value ranking and interactive dashboards
 
-### 🚀 **Systematic Crypto Trading Bot** *(2024)*
-> Multi-factor signal engine with AI-powered sentiment and real-time risk control
+## Technical Stack
 
-- Statistical arbitrage (cointegration, Kalman filter) + RidgeCV signal blending
-- Volatility-scaling, circuit breakers, and async WebSocket execution
+**Languages:** Python, R, MATLAB, SQL  
+**ML/AI:** PyTorch, TensorFlow, scikit-learn, hmmlearn  
+**Quant:** statsmodels, pandas, numpy, QuantLib  
+**Tools:** Git, Jupyter, Docker, Streamlit
 
-### 🏦 **Regime-Aware Risk Simulation Framework** *(2024)*
-> Advanced Monte Carlo and volatility-based backtesting system with GARCH + regime detection overlay
+## Education
 
-- GMM-based regime detection with dynamic transition modeling
-- Simulation engine supporting stress tests and multi-horizon VaR/ES
-- Configurable drawdown caps, position sizing overlays, and portfolio diagnostics
-  
-## 🛠️ Technical Stack
+**MSc Finance** - Católica Lisbon School of Business & Economics (2025-2027)  
+**BSc Management** - HEC Lausanne (2021-2024)  
+**Exchange** - Hong Kong Baptist University (2023-2024)
 
-### Programming & Analytics
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+## Contact
 
-</div>
-
-### Machine Learning & AI
-<div align="center">
-  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-</div>
-
-## 📈 Research Impact
-
-### Academic Contributions
-- SSRN working paper on hybrid HMM-LSTM regime detection
-- Monte Carlo scenarios, multi-horizon VaR/ES, and empirical signal diagnostics
-
-### Industry Applications
-- Modular, production-ready architecture (Live/Backtest/StressTest)
-- Dynamic de-risking overlays for volatility and drawdown suppression
-- Signal engines integrating macro, technical, and sentiment signals
-- LLM integration for real-time signal augmentation and diagnostics
-
-## 🎓 Education
-
-**MSc Finance** — Católica Lisbon SBE (2025–2027)  
-**BSc Management** — HEC Lausanne (2021–2024)  
-**Exchange** — HKBU Hong Kong (2023–2024)
-
-## 🌐 Connect
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaskemper/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.kemper01@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=lucaskemper&color=blueviolet&style=for-the-badge)
-
-</div>
+📧 lucas.kemper01@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/lucaskemper/)  
+🐦 [Twitter](https://twitter.com/lucaskemperrr)
