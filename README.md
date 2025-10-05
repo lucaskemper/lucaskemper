@@ -18,12 +18,12 @@ Quantitative finance researcher specializing in market regime detection and syst
 - Dynamic risk overlays, walk-forward backtesting, Monte Carlo stress testing
 - Modular design for research and production deployment
 
-**Systematic Crypto Trading Infrastructure**
+****[CryptoTrading](https://github.com/lucaskemper/CryptoTradingPublic)** - Systematic Crypto Trading Infrastructure
 - Statistical arbitrage (cointegration, Kalman filtering) with regime-aware execution
 - Multi-factor signal blending, volatility targeting, async WebSocket execution
 - RidgeCV meta-learning for signal optimization
 
-**Narrative Alpha Detector** - Prediction market mispricing scanner
+**[narrative-alpha-detector](https://github.com/lucaskemper/narrative-alpha-detector)** - Prediction market mispricing scanner
 - LLM-based system for detecting mispricings in prediction markets
 - Real-time forecasting integration with confidence-weighted probability priors
 - Expected value ranking and interactive dashboards
@@ -38,11 +38,11 @@ Quantitative finance researcher specializing in market regime detection and syst
 ## Education
 
 **MSc Finance** - Católica Lisbon School of Business & Economics (2025-2027)  
-**BSc Management** - HEC Lausanne (2021-2024)  
+**BSc Economics** - HEC Lausanne (2021-2024)  
 **Exchange** - Hong Kong Baptist University (2023-2024)
 
 ## Contact
 
-📧 lucas.kemper01@gmail.com  
+📧 [![Email](mailto:lucas.kemper01@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/lucaskemper/)  
 🐦 [x](https://x.com/lucaskemperrr)
