@@ -43,6 +43,6 @@ Quantitative finance researcher specializing in market regime detection and syst
 
 ## Contact
 
-📧 [![Email](mailto:lucas.kemper01@gmail.com)
+📧 [Email](mailto:lucas.kemper01@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/lucaskemper/)  
 🐦 [x](https://x.com/lucaskemperrr)
