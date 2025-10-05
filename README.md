@@ -18,11 +18,6 @@ Quantitative finance researcher specializing in market regime detection and syst
 - Dynamic risk overlays, walk-forward backtesting, Monte Carlo stress testing
 - Modular design for research and production deployment
 
-**[Crypto-Trading](https://github.com/lucaskemper/CryptoTradingPublic)** - Systematic Crypto Trading Infrastructure
-- Statistical arbitrage (cointegration, Kalman filtering) with regime-aware execution
-- Multi-factor signal blending, volatility targeting, async WebSocket execution
-- RidgeCV meta-learning for signal optimization
-
 **[Narrative-Alpha-Detector](https://github.com/lucaskemper/narrative-alpha-detector)** - Prediction market mispricing scanner
 - LLM-based system for detecting mispricings in prediction markets
 - Real-time forecasting integration with confidence-weighted probability priors
@@ -32,6 +27,11 @@ Quantitative finance researcher specializing in market regime detection and syst
 - Analyzed 10K blocks across gas regimes
 - Sandwich attacks increase costs 2.9x (77 vs 27 bps)
 - High-gas regimes show 2x portfolio rebalancing costs
+
+**[Crypto-Trading](https://github.com/lucaskemper/CryptoTradingPublic)** - Systematic Crypto Trading Infrastructure
+- Statistical arbitrage (cointegration, Kalman filtering) with regime-aware execution
+- Multi-factor signal blending, volatility targeting, async WebSocket execution
+- RidgeCV meta-learning for signal optimization
 
 ## Technical Stack
 
