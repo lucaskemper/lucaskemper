@@ -40,12 +40,6 @@ Quantitative finance researcher specializing in market regime detection and syst
 **Quant:** statsmodels, pandas, numpy, QuantLib  
 **Tools:** Git, Jupyter, Docker, Streamlit
 
-## Education
-
-**MSc Finance** - Católica Lisbon School of Business & Economics (2025-2027)  
-**BSc Economics** - HEC Lausanne (2021-2024)  
-**Exchange** - Hong Kong Baptist University (2023-2024)
-
 ## Contact
 
 
