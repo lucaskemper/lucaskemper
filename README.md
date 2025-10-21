@@ -28,11 +28,6 @@ Quantitative finance researcher specializing in market regime detection and syst
 - Sandwich attacks increase costs 2.9x (77 vs 27 bps)
 - High-gas regimes show 2x portfolio rebalancing costs
 
-**[Crypto-Trading](https://github.com/lucaskemper/CryptoTradingPublic)** - Systematic Crypto Trading Infrastructure
-- Statistical arbitrage (cointegration, Kalman filtering) with regime-aware execution
-- Multi-factor signal blending, volatility targeting, async WebSocket execution
-- RidgeCV meta-learning for signal optimization
-
 ## Technical Stack
 
 **Languages:** Python, R, MATLAB, SQL  
