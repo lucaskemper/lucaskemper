@@ -28,7 +28,7 @@ Quantitative finance researcher specializing in market regime detection and syst
 - Sandwich attacks increase costs 2.9x (77 vs 27 bps)
 - High-gas regimes show 2x portfolio rebalancing costs
 
-**[Crypto Trading & Arbitrage Bot](https://github.com/lucaskemper/cryptotrading)** - Advanced automated trading and arbitrage bot ^
+**[Crypto Trading & Arbitrage Bot](https://github.com/lucaskemper/cryptotrading)** - Advanced automated trading and arbitrage bot (work in progress)
 - Multi-exchange: Binance, Kraken, and more
 - Statistical arbitrage: cointegration, Z-score signals, mean reversion
 - LLM-powered sentiment scoring and market signal fusion
