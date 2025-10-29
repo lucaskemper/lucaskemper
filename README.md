@@ -19,9 +19,10 @@ Quantitative finance researcher specializing in market regime detection and syst
 - Modular design for research and production deployment
 
 **[Narrative-Alpha-Detector](https://github.com/lucaskemper/narrative-alpha-detector)** - Prediction market mispricing scanner
-- LLM-based system for detecting mispricings in prediction markets
-- Real-time forecasting integration with confidence-weighted probability priors
-- Expected value ranking and interactive dashboards
+  - Ensemble forecasting with Perplexity, GPT, Claude, Grok  
+  - Real-time Polymarket scanning and confidence filtering  
+  - Adaptive weights, risk-managed portfolio simulation  
+  - Regime tagging, audit trails, and Streamlit dashboards
 
 **[Crypto Trading & Arbitrage Bot](https://github.com/lucaskemper/cryptotrading)** - Advanced automated trading and arbitrage bot (work in progress)
 - Multi-exchange: Binance, Kraken, and more
