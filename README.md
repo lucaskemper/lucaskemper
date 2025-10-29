@@ -18,7 +18,7 @@ Quantitative finance researcher specializing in market regime detection and syst
 - Dynamic risk overlays, walk-forward backtesting, Monte Carlo stress testing
 - Modular design for research and production deployment
 
-**[Narrative-Alpha-Detector](https://github.com/lucaskemper/narrative-alpha-detector)** - Prediction market mispricing scanner
+**[Narrative-Alpha-Detector](https://github.com/lucaskemper/narrative-alpha-public)** - Prediction market mispricing scanner
   - Ensemble forecasting with Perplexity, GPT, Claude, Grok  
   - Real-time Polymarket scanning and confidence filtering  
   - Adaptive weights, risk-managed portfolio simulation  
