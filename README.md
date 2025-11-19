@@ -24,6 +24,11 @@ Quantitative finance researcher specializing in market regime detection and syst
   - Adaptive weights, risk-managed portfolio simulation  
   - Regime tagging, audit trails, and Streamlit dashboards
 
+**[MEV Portfolio Analysis](https://github.com/lucaskemper/mev-portfolio-analysis)** - Impact of sandwich attacks on execution costs
+- Analyzed 10K blocks across gas regimes
+- Sandwich attacks increase costs 2.9x (77 vs 27 bps)
+- High-gas regimes show 2x portfolio rebalancing costs
+
 **[Crypto Trading & Arbitrage Bot](https://github.com/lucaskemper/cryptotrading)** - Advanced automated trading and arbitrage bot (work in progress)
 - Multi-exchange: Binance, Kraken, and more
 - Statistical arbitrage: cointegration, Z-score signals, mean reversion
