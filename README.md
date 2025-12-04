@@ -13,21 +13,16 @@ Quantitative finance researcher specializing in market regime detection and syst
 
 ## Projects
 
-**[HybridQuantRegimes](https://github.com/lucaskemper/hybridquantregimes)** - Market regime detection and risk management framework
-- Hybrid HMM-LSTM architecture with real-time regime classification
-- Dynamic risk overlays, walk-forward backtesting, Monte Carlo stress testing
-- Modular design for research and production deployment
-
-**[Narrative-Alpha-Detector](https://github.com/lucaskemper/narrative-alpha-public)** - Prediction market mispricing scanner
-  - Ensemble forecasting with Perplexity, GPT, Claude, Grok  
-  - Real-time Polymarket scanning and confidence filtering  
-  - Adaptive weights, risk-managed portfolio simulation  
-  - Regime tagging, audit trails, and Streamlit dashboards
-
 **[MEV Portfolio Analysis](https://github.com/lucaskemper/mev-portfolio-analysis)** - Impact of sandwich attacks on execution costs
 - Analyzed 10K blocks across gas regimes
 - Sandwich attacks increase costs 2.9x (77 vs 27 bps)
 - High-gas regimes show 2x portfolio rebalancing costs
+
+**[Narrative-Alpha-Detector](https://github.com/lucaskemper/narrative-alpha-public)** - Prediction market mispricing scanner
+ - Ensemble forecasting with Perplexity, GPT, Claude, Grok  
+ - Real-time Polymarket scanning and confidence filtering  
+ - Adaptive weights, risk-managed portfolio simulation  
+ - Regime tagging, audit trails, and Streamlit dashboards
 
 **[Crypto Trading & Arbitrage Bot](https://github.com/lucaskemper/cryptotrading)** - Advanced automated trading and arbitrage bot (work in progress)
 - Multi-exchange: Binance, Kraken, and more
