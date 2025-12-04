@@ -23,7 +23,7 @@ Empirical basis for my MSc thesis on **MEV-aware reinforcement learning**.
 ### **Narrative Alpha Detector (Prediction Markets)**  
 Repo: https://github.com/lucaskemper/narrative-alpha-public  
 
-Ensemble probability modeling (GPT, Claude, Grok) for detecting mispricings on Polymarket.  
+Ensemble probability modeling (GPT, Claude, Grok, Perplexity Sonar) for detecting mispricings on Polymarket.  
 Includes confidence weighting, regime tagging, and full audit trail logging.
 
 ### **Crypto Trading & Arbitrage System (WIP)**  
