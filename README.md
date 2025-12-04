@@ -1,48 +1,67 @@
-# Lucas Kemper
+# Lucas Kemper  
+**Machine Learning for Markets • DeFi Systems • MEV Research**  
 
-Quantitative finance researcher specializing in market regime detection and systematic trading systems.
+I study how adversarial dynamics and execution constraints shape behavior in decentralized markets.  
+My work focuses on **machine learning**, **MEV**, **market microstructure**, and **simulation-based analysis** applied to both DeFi and traditional financial systems.
 
-## Research
+---
 
-**Hybrid Regime Detection in Semiconductor Equities: A Bayesian HMM-LSTM Framework**  
-*SSRN Working Paper* | [Paper](https://scholar.google.com/citations?user=i0ghAdcAAAAJ&hl=en) | [Code](https://github.com/lucaskemper/hybridquantregimes)
+## 🔬 Research
 
-- Combined HMM and LSTM outputs using entropy-weighted Bayesian model averaging
-- Achieved >50% volatility reduction and 15-17pt drawdown improvement vs static benchmarks
-- Production-ready framework with comprehensive backtesting and Monte Carlo simulation
+### **Hybrid Regime Detection in Semiconductor Equities**  
+*SSRN Working Paper* · [Paper](https://scholar.google.com/citations?user=i0ghAdcAAAAJ&hl=en) · [Code](https://github.com/lucaskemper/hybridquantregimes)
 
-## Projects
+A Bayesian HMM–LSTM framework for multi-horizon regime detection.  
+Includes full evaluation: backtesting, diagnostics, and Monte Carlo simulation.
 
-**[MEV Portfolio Analysis & Msc Thesis Proposal](https://github.com/lucaskemper/mev-portfolio-analysis)** - Impact of sandwich attacks on execution costs
-- Analyzed 10K blocks across gas regimes
-- Sandwich attacks increase costs 2.9x (77 vs 27 bps)
-- High-gas regimes show 2x portfolio rebalancing costs
+---
 
-**[Narrative-Alpha-Detector](https://github.com/lucaskemper/narrative-alpha-public)** - Prediction market mispricing scanner
- - Ensemble forecasting with Perplexity, GPT, Claude, Grok  
- - Real-time Polymarket scanning and confidence filtering  
- - Adaptive weights, risk-managed portfolio simulation  
- - Regime tagging, audit trails, and Streamlit dashboards
+## 🧩 Current Projects
 
-**[Crypto Trading & Arbitrage Bot](https://github.com/lucaskemper/cryptotrading)** - Advanced automated trading and arbitrage bot (work in progress)
-- Multi-exchange: Binance, Kraken, and more
-- Statistical arbitrage: cointegration, Z-score signals, mean reversion
-- LLM-powered sentiment scoring and market signal fusion
-- Real-time monitoring web dashboard, Prometheus, Grafana
-- Advanced risk management, backtesting, and cloud deployment
+### **MEV-Informed Portfolio Behavior**  
+Repo: https://github.com/lucaskemper/mev-portfolio-analysis  
 
-## Technical Stack
+Quantifies how sandwich attacks and gas regimes distort execution costs in AMMs.  
+Forms the empirical basis for my MSc thesis on **MEV-aware reinforcement learning** for portfolio execution.
 
-**Languages:** Python, R, MATLAB, SQL  
+---
+
+### **Narrative Alpha Detector (Prediction Markets)**  
+Repo: https://github.com/lucaskemper/narrative-alpha-public  
+
+Ensemble probability modeling (GPT, Claude, Grok, etc.) for detecting mispricings in prediction markets.  
+Emphasizes explainability, confidence weighting, and traceable model outputs.
+
+---
+
+### **Crypto Trading & Arbitrage System (WIP)**  
+Repo: https://github.com/lucaskemper/cryptotrading  
+
+Infrastructure for multi-exchange execution and statistical arbitrage.  
+Focuses on realistic microstructure constraints, async execution, and ML-driven signal fusion.
+
+---
+
+## 📚 Technical Stack
+
 **ML/AI:** PyTorch, TensorFlow, scikit-learn, hmmlearn  
-**Quant:** statsmodels, pandas, numpy, QuantLib  
-**Tools:** Git, Jupyter, Docker, Streamlit
+**Systems:** Docker, async pipelines, WebSockets  
+**Data:** NumPy, pandas, statsmodels  
+**Languages:** Python, R, MATLAB, SQL  
 
-## Contact
+---
 
+## 🎯 Research Interests
 
-<div align="center">
+- MEV and adversarial blockchain dynamics  
+- Decentralized market microstructure  
+- ML for execution, allocation, and state detection  
+- Simulation environments for multi-agent systems  
+- Reinforcement learning in financial and blockchain settings  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.kemper01@gmail.com)
+---
 
-</div>
+## 📬 Contact  
+
+**Email:** lucas.kemper01@gmail.com  
+**LinkedIn:** https://linkedin.com/in/lucaskemper  
