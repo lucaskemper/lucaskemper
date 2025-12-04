@@ -5,7 +5,7 @@ Quantitative finance researcher specializing in market regime detection and syst
 ## Research
 
 **Hybrid Regime Detection in Semiconductor Equities: A Bayesian HMM-LSTM Framework**  
-*SSRN Working Paper* | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5366835) | [Code](https://github.com/lucaskemper/hybridquantregimes)
+*SSRN Working Paper* | [Paper](https://scholar.google.com/citations?user=i0ghAdcAAAAJ&hl=en) | [Code](https://github.com/lucaskemper/hybridquantregimes)
 
 - Combined HMM and LSTM outputs using entropy-weighted Bayesian model averaging
 - Achieved >50% volatility reduction and 15-17pt drawdown improvement vs static benchmarks
