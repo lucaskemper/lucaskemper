@@ -13,7 +13,7 @@ Quantitative finance researcher specializing in market regime detection and syst
 
 ## Projects
 
-**[MEV Portfolio Analysis](https://github.com/lucaskemper/mev-portfolio-analysis)** - Impact of sandwich attacks on execution costs
+**[MEV Portfolio Analysis & Msc Thesis Proposal](https://github.com/lucaskemper/mev-portfolio-analysis)** - Impact of sandwich attacks on execution costs
 - Analyzed 10K blocks across gas regimes
 - Sandwich attacks increase costs 2.9x (77 vs 27 bps)
 - High-gas regimes show 2x portfolio rebalancing costs
