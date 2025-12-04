@@ -1,36 +1,36 @@
 # Lucas Kemper  
-**Machine Learning for Markets • DeFi Systems • MEV Research**  
+### Machine Learning • DeFi Systems • MEV Research  
 
 I study how adversarial dynamics and execution constraints shape behavior in decentralized markets.  
-My work focuses on **machine learning**, **MEV**, **market microstructure**, and **simulation-based analysis** applied to both DeFi and traditional financial systems.
+My work focuses on **machine learning**, **MEV**, **market microstructure**, and **simulation-based analysis**.
 
 ---
 
-## 🔬 Research
+## Research
 
 ### **Hybrid Regime Detection in Semiconductor Equities**  
-*SSRN Working Paper* · [Paper](https://scholar.google.com/citations?user=i0ghAdcAAAAJ&hl=en) · [Code](https://github.com/lucaskemper/hybridquantregimes)
+*SSRN Working Paper*  
+[Paper](https://scholar.google.com/citations?user=i0ghAdcAAAAJ&hl=en) • [Code](https://github.com/lucaskemper/hybridquantregimes)
 
-A Bayesian HMM–LSTM framework for multi-horizon regime detection.  
-Includes full evaluation: backtesting, diagnostics, and Monte Carlo simulation.
+A Bayesian HMM–LSTM framework for multi-horizon regime detection, with full backtesting, Monte Carlo stress tests, and comprehensive diagnostics.
 
 ---
 
-## 🧩 Current Projects
+## Current Projects
 
 ### **MEV-Informed Portfolio Behavior**  
 Repo: https://github.com/lucaskemper/mev-portfolio-analysis  
 
-Quantifies how sandwich attacks and gas regimes distort execution costs in AMMs.  
-Forms the empirical basis for my MSc thesis on **MEV-aware reinforcement learning** for portfolio execution.
+Quantifies how sandwich attacks and gas regimes distort execution in AMMs.  
+Empirical foundation for my MSc thesis on **MEV-aware reinforcement learning**.
 
 ---
 
 ### **Narrative Alpha Detector (Prediction Markets)**  
 Repo: https://github.com/lucaskemper/narrative-alpha-public  
 
-Ensemble probability modeling (GPT, Claude, Grok, etc.) for detecting mispricings in prediction markets.  
-Emphasizes explainability, confidence weighting, and traceable model outputs.
+Ensemble probability modeling (GPT, Claude, Grok) for real-time mispricing detection on Polymarket.  
+Includes confidence weighting, regime tagging, and full audit trails.
 
 ---
 
@@ -38,11 +38,11 @@ Emphasizes explainability, confidence weighting, and traceable model outputs.
 Repo: https://github.com/lucaskemper/cryptotrading  
 
 Infrastructure for multi-exchange execution and statistical arbitrage.  
-Focuses on realistic microstructure constraints, async execution, and ML-driven signal fusion.
+Built with async pipelines, signal fusion, and real microstructure constraints.
 
 ---
 
-## 📚 Technical Stack
+## Technical Stack
 
 **ML/AI:** PyTorch, TensorFlow, scikit-learn, hmmlearn  
 **Systems:** Docker, async pipelines, WebSockets  
@@ -51,17 +51,17 @@ Focuses on realistic microstructure constraints, async execution, and ML-driven 
 
 ---
 
-## 🎯 Research Interests
+## Research Interests
 
 - MEV and adversarial blockchain dynamics  
 - Decentralized market microstructure  
-- ML for execution, allocation, and state detection  
+- ML for execution and state detection  
 - Simulation environments for multi-agent systems  
-- Reinforcement learning in financial and blockchain settings  
+- Reinforcement learning in financial & blockchain settings  
 
 ---
 
-## 📬 Contact  
+## Contact
 
 **Email:** lucas.kemper01@gmail.com  
-**LinkedIn:** https://linkedin.com/in/lucaskemper  
+**LinkedIn:** https://linkedin.com/in/lucaskemper
