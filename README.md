@@ -21,7 +21,7 @@ Quantifies how sandwich attacks and gas regimes distort execution costs in AMMs.
 Empirical basis for my MSc thesis on **MEV-aware reinforcement learning**.
 
 ### **Narrative Alpha Detector (Prediction Markets)**  
-Repo: https://github.com/lucaskemper/narrative-alpha-public  
+Repo: https://github.com/lucaskemper/narrative-alpha  
 
 Ensemble probability modeling (GPT, Claude, Grok, Perplexity Sonar) for detecting mispricings on Polymarket.  
 Includes confidence weighting, regime tagging, and full audit trail logging.
