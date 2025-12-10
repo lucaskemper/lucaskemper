@@ -20,16 +20,7 @@ Repo: https://github.com/lucaskemper/mev-portfolio-analysis
 Quantifies how sandwich attacks and gas regimes distort execution costs in AMMs.  
 Empirical basis for my MSc thesis on **MEV-aware reinforcement learning**.
 
-### **Narrative Alpha Detector (Prediction Markets)**  
-Repo: https://github.com/lucaskemper/narrative-alpha-detector
 
-Ensemble probability modeling (GPT, Claude, Grok, Perplexity Sonar) for detecting mispricings on Polymarket.  
-Includes confidence weighting, regime tagging, and full audit trail logging.
-
-### **Crypto Trading & Arbitrage System (WIP)**  
-Repo: https://github.com/lucaskemper/cryptotrading  
-
-Infrastructure for multi-exchange execution and statistical arbitrage using async pipelines, microstructure-aware routing, and ML-driven signal fusion.
 
 ## Technical Stack
 
