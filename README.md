@@ -8,7 +8,7 @@ My work focuses on **machine learning**, **MEV**, **market microstructure**, and
 
 ### **Hybrid Regime Detection in Semiconductor Equities**  
 *SSRN Working Paper*  
-[Paper](https://scholar.google.com/citations?user=i0ghAdcAAAAJ&hl=en) • [Code](https://github.com/lucaskemper/hybridquantregimes)
+[Paper](https://scholar.google.com/citations?user=i0ghAdcAAAAJ&hl=en) 
 
 A Bayesian HMM–LSTM framework for multi-horizon regime detection with full backtesting, Monte Carlo stress tests, and diagnostics.
 
@@ -39,5 +39,5 @@ Empirical basis for my MSc thesis on **MEV-aware reinforcement learning**.
 
 ## Contact
 
-**Email:** lucas.kemper01@gmail.com  
+**Email:** lucas@singularitytrading.io
 **LinkedIn:** https://linkedin.com/in/lucaskemper
