@@ -27,7 +27,7 @@ Empirical basis for my MSc thesis on **MEV-aware reinforcement learning**.
 **ML/AI:** PyTorch, TensorFlow, scikit-learn, hmmlearn  
 **Systems:** Docker, async pipelines, WebSockets  
 **Data:** NumPy, pandas, statsmodels  
-**Languages:** Python, R, MATLAB, SQL  
+**Languages:** Python, Rust, R, MATLAB, SQL  
 
 ## Research Interests
 
