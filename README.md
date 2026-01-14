@@ -40,4 +40,3 @@ Empirical basis for my MSc thesis on **MEV-aware reinforcement learning**.
 ## Contact
 
 **Email:** lucas@singularitytrading.io
-**LinkedIn:** https://linkedin.com/in/lucaskemper
