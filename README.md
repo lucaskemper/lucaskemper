@@ -12,15 +12,6 @@ My work focuses on **machine learning**, **MEV**, **market microstructure**, and
 
 A Bayesian HMM–LSTM framework for multi-horizon regime detection with full backtesting, Monte Carlo stress tests, and diagnostics.
 
-## Current Projects
-
-### **MEV-Informed Portfolio Behavior**  
-Repo: https://github.com/lucaskemper/mev-portfolio-analysis  
-
-Quantifies how sandwich attacks and gas regimes distort execution costs in AMMs.  
-Empirical basis for my MSc thesis on **MEV-aware reinforcement learning**.
-
-
 
 ## Technical Stack
 
