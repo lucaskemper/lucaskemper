@@ -1,1 +1,1 @@
-**Email:** lucas@singularitytrading.io
+**Email:** lucas@quillonmarkets.com
